@@ -13,7 +13,6 @@ Non-functional requirements specify the performance, security, and other operati
 
 - [Non-Functional Requirements View](https://github.com/orgs/WhiteboardCollab/projects/5/views/10?filterQuery=types%3A%22Non-Functional%22+types%3A)
 
-
 ## 4. System Architecture
 The system architecture includes the design decisions that describe the system structure, such as client-server architecture, data storage mechanisms, and communication protocols.
 
@@ -37,4 +36,3 @@ This section lists any assumptions made during the requirements gathering proces
 
 ## 11. Glossary
 This section defines the technical terms and jargon used throughout the SRS, ensuring clarity and consistency in understanding.
-

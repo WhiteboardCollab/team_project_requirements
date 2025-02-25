@@ -6,7 +6,7 @@ This document describes the Software Requirements Specification (SRS) for the pr
 ## 2. Functional Requirements
 The functional requirements describe the essential features and functions that the system must be able to perform. The full list of functional requirements is available in the following view:
 
-- [Functional Requirements View](link_to_your_functional_view)
+- [Functional Requirements View](https://github.com/orgs/WhiteboardCollab/projects/5/views/7?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C171667321%5D&filterQuery=types%3AFunctional+types%3A)
 
 ## 3. Non-Functional Requirements
 Non-functional requirements specify the performance, security, and other operational constraints of the system. The full list of non-functional requirements is available in the following view:

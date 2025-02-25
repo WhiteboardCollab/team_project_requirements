@@ -11,7 +11,8 @@ The functional requirements describe the essential features and functions that t
 ## 3. Non-Functional Requirements
 Non-functional requirements specify the performance, security, and other operational constraints of the system. The full list of non-functional requirements is available in the following view:
 
-- [Non-Functional Requirements View](link_to_your_non_functional_view)
+- [Non-Functional Requirements View](https://github.com/orgs/WhiteboardCollab/projects/5/views/10?filterQuery=types%3A%22Non-Functional%22+types%3A)
+
 
 ## 4. System Architecture
 The system architecture includes the design decisions that describe the system structure, such as client-server architecture, data storage mechanisms, and communication protocols.

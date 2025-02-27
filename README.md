@@ -24,6 +24,7 @@ Non-functional requirements specify the performance, security, and other operati
 ### **Non-Functional Requirements Include:**
 1. The system should have a user-friendly and intuitive interface.
 2. Performance should allow real-time updates with minimal latency.
+3. The system should be scalable to handle more users without performance degradation.
 
 ## 4. System Architecture
 The system is an extension of existing online meeting platforms, bridging the gap between standard screen-sharing features and real-time collaborative brainstorming tools. It eliminates the need for third-party applications by integrating directly into Zoom and Microsoft Teams. This integration will provide an intuitive interface for users to draw, annotate, and interact visually.
@@ -50,8 +51,9 @@ We are still trying to determine the limitations of Zoom and Microsoft Teams API
 ## 10. Assumptions and Dependencies
 - Users will have a stable internet connection to support real-time collaboration.
 - The meeting platforms (Zoom/Teams) will continue to support third-party integrations.
+- Users will have basic familiarity with virtual meeting platforms and may vary in their experience with digital whiteboarding tools.
 
 ## 11. Glossary
-- **Collaborative whiteboarding**: A tool that allows multiple users to draw and annotate on a shared digital whiteboard in real time.
+- **Collaborative whiteboarding**: A tool that allows multiple users to draw and annotate on a shared digital whiteboard in real-time.
 - **User roles**: Permissions that define what actions a user can perform (e.g., presenter, editor, viewer).
 - **Latency**: The time delay between an action performed by a user and its reflection on other users' screens.
